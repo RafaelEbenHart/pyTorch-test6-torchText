@@ -72,31 +72,36 @@ class TinyCharModel(nn.Module):
         self.fc= nn.Linear(in_features=256,
                                 out_features=vocab_size)
 
-    def forward(self,x,targets=None):
+    def forward(self,x):
         x = self.embed(x)
-        x, (c,h) = self.lstm(x)
+        x, _ = self.lstm(x)
         x = self.dropout(x)
-        logits = self.fc(x)
-        if targets is None:
-            loss = None
-        else:
-            B, T, C = logits.shape
-            logits = logits.view(B*T,C)
-            targets = targets.view(B*T)
-            loss = fn.cross_entropy(logits, targets)
-        return logits,loss
+        x = self.fc(x)
+        # if targets is None:
+        #     loss = None
+        # else:
+        #     B, T, C = logits.shape
+        #     logits = logits.view(B*T,C)
+        #     targets = targets.view(B*T)
+        #     loss = fn.cross_entropy(logits, targets)
+        return x
 
 torch.manual_seed(42)
 model = TinyCharModel(vocab_size=vocabulary_size)
 optimizer = torch.optim.AdamW(params=model.parameters(),
                               lr=1e-3)
-
+loss_fn = torch.nn.CrossEntropyLoss()
 
 epochs = 500
 
 for epoch in range(epochs):
     X,y = get_batch("train")
-    logits,loss = model(X, y)
+    logits = model(X)
+    # print(logits.shape)
+    B, T, C = logits.shape
+    logits = logits.view(B*T,C)
+    y = y.view(B * T)
+    loss = loss_fn(logits, y)
     optimizer.zero_grad()
     loss.backward()
     optimizer.step()
@@ -110,7 +115,7 @@ def generate(model,start=str,length = 250 ):
     out = context.clone()
 
     for _ in range(length):
-        logits, _ = model(out[:, -block_size:])
+        logits= model(out[:, -block_size:])
         probs = fn.softmax(logits[:, -1, :], dim=-1)
         next_id = torch.multinomial(probs,num_samples=1)
         out = torch.cat([out,next_id], dim=1)
@@ -121,7 +126,7 @@ def text_show(text: str):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
-        time.sleep(0.2)
+        time.sleep(0.15)
     print()
     return text
 print("="*50)

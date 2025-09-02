@@ -54,8 +54,9 @@ def get_batch(split:str, batch_size = 32):
     X = torch.stack([data_split [i:i + block_size] for i in ix])
     y = torch.stack([data_split[i+1:i + block_size+1] for i in ix])
     return X,y
-
+# train
 X, y = get_batch("train")
+Xtest, yTest = get_batch("test")
 # print(X.shape, y.shape)
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in X[0]]))
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in y[0]]))
@@ -94,6 +95,8 @@ loss_fn = torch.nn.CrossEntropyLoss()
 
 epochs = 500
 
+
+
 for epoch in range(epochs):
     X,y = get_batch("train")
     logits = model(X)
@@ -106,8 +109,17 @@ for epoch in range(epochs):
     loss.backward()
     optimizer.step()
 
+    model.eval()
+    with torch.inference_mode():
+        Xtest,yTest = get_batch("test")
+        testLogits = model(Xtest)
+        A, E, D = testLogits.shape
+        testLogits = testLogits.view(A*E,D)
+        yTest = yTest.view(A*E)
+        testloss = loss_fn(testLogits,yTest)
+
     if epoch % 100 == 0 :
-        print(f"Epoch: {epoch+100}/{epochs} | Loss: {loss.item():.5f}")
+        print(f"Epoch: {epoch+100}/{epochs} | Train Loss: {loss.item():.5f} | Test Loss: {testloss.item():.5f}")
 
 def generate(model,start=str,length = 250 ):
     model.eval()

@@ -16,7 +16,7 @@ learning_rate = 1e-4
 eval_iters = 100
 n_embd = 128
 n_head = 8
-n_layer = 8
+n_layer = 4
 dropout = 0.2
 
 with open(book_dir,"r",encoding="utf-8") as f:
@@ -70,5 +70,13 @@ Xtest, yTest = get_batch("test")
 class bigramLangaugeModel(nn.Module):
     def __init__(self, input:int, neuron:int, output:int):
         super().__init__()
-        self.toke_embeding_table = nn.Embedding(vocabulary_size,n_embd)
+        self.token_embeding_table = nn.Embedding(vocabulary_size,n_embd)
         self.position_embeding_table = nn.Embedding(block_size,n_embd)
+        self.blocks = nn.Sequential()
+        self.ln_f = nn.LayerNorm(n_embd)
+        self.lm_head = nn.Linear(in_features=n_embd,out_features=vocabulary_size)
+
+
+        ## make a class block that can make layer as much as you want if neccesary
+        # self.
+        # self.

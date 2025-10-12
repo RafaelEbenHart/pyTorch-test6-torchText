@@ -2,7 +2,7 @@ import requests
 import torch
 import string
 import unicodedata
-import torch.nn.functional as fn
+import torch.nn.functional as f
 from torch import nn
 import time
 import sys
@@ -19,8 +19,8 @@ n_head = 8
 n_layer = 4
 dropout = 0.2
 
-with open(book_dir,"r",encoding="utf-8") as f:
-    text = f.read()
+with open(book_dir,"r",encoding="utf-8") as r:
+    text = r.read()
 # print(text[:500])
 chars = sorted(list(set(text)))
 # print(chars) # mengurutkan character
@@ -67,8 +67,8 @@ Xtest, yTest = get_batch("test")
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in X[0]]))
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in y[0]]))
 
-class bigramLangaugeModel(nn.Module):
-    def __init__(self, input:int, neuron:int, output:int):
+class GPTArch(nn.Module):
+    def __init__(self, vocab_size):
         super().__init__()
         self.token_embeding_table = nn.Embedding(vocabulary_size,n_embd)
         self.position_embeding_table = nn.Embedding(block_size,n_embd)
@@ -76,7 +76,35 @@ class bigramLangaugeModel(nn.Module):
         self.ln_f = nn.LayerNorm(n_embd)
         self.lm_head = nn.Linear(in_features=n_embd,out_features=vocabulary_size)
 
+    def _init_weights(self, module):
+        if isinstance(module, nn.Linear):
+            torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
+            if module.bias is not None:
+                torch.nn.init.zeros__(module.bias)
+        elif isinstance(module, nn.Embedding):
+            torch.nn.init.normal_(module.weight,mean=0.0, std=0.02)
 
+    def forward(self, index,targets=None):
+        logits = self.token_embeding_table(index)
+
+        #idex adn targets are both (B,T) tensor of integers
+        tok_emb =self.token_embeding_table(idx) #(B,T.C)
+        pos_emb = self.position_embeding_table(torch.arange(T, device=device)) #(T, C)
+        x = tok_emb + pos_emb
+        x = self.blocks(x) #B T C
+        x = self.ln_f(x) #B T C
+        logits = self.lm_head(x) #B T vocab_size
+        if targets is None:
+            loss = None
+        else:
+            B, T, C = logits.shape
+            logits = logits.view(B*T,C)
+            targets = targets.view(B*T)
+            loss = f.cross_entropy(logits, targets)
+            return logits, loss
         ## make a class block that can make layer as much as you want if neccesary
         # self.
         # self.
+
+
+

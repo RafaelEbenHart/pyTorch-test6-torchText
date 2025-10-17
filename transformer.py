@@ -67,6 +67,12 @@ Xtest, yTest = get_batch("test")
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in X[0]]))
 # print("Contoh:" , "".join([int_to_string[i.item()] for i in y[0]]))
 
+class Block(nn.Module):
+    def __init__ (self, n_embd, n_head):
+        super().__init__()
+        head_size = n_embd // n_head
+        self.nn = multi
+
 class GPTArch(nn.Module):
     def __init__(self, vocab_size):
         super().__init__()
@@ -87,7 +93,7 @@ class GPTArch(nn.Module):
     def forward(self, index,targets=None):
         logits = self.token_embeding_table(index)
 
-        #idex adn targets are both (B,T) tensor of integers
+        #index adn targets are both (B,T) tensor of integers
         tok_emb =self.token_embeding_table(idx) #(B,T.C)
         pos_emb = self.position_embeding_table(torch.arange(T, device=device)) #(T, C)
         x = tok_emb + pos_emb

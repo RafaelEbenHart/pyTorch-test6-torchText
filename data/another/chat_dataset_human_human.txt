@@ -1,0 +1,699 @@
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: OI,LEN?
+User2: APALAH COBA?
+User1: DO BACKFLIP
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: oi len?
+User2: APALAH COBA?
+User1: do backflip
+User2: Kesalahan berfikir
+User1: owh gitu kamuh
+User2: :b
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal internet, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka internet juga ya?
+User2: Iya, lumayan. Menurutmu internet itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal media sosial, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka media sosial juga ya?
+User2: Iya, lumayan. Menurutmu media sosial itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal tidur, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka tidur juga ya?
+User2: Iya, lumayan. Menurutmu tidur itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal motivasi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka motivasi juga ya?
+User2: Iya, lumayan. Menurutmu motivasi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal cuaca, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka cuaca juga ya?
+User2: Iya, lumayan. Menurutmu cuaca itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal film, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka film juga ya?
+User2: Iya, lumayan. Menurutmu film itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal makanan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka makanan juga ya?
+User2: Iya, lumayan. Menurutmu makanan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teknologi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teknologi juga ya?
+User2: Iya, lumayan. Menurutmu teknologi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal musik, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka musik juga ya?
+User2: Iya, lumayan. Menurutmu musik itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal sekolah, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka sekolah juga ya?
+User2: Iya, lumayan. Menurutmu sekolah itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hobi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hobi juga ya?
+User2: Iya, lumayan. Menurutmu hobi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal liburan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka liburan juga ya?
+User2: Iya, lumayan. Menurutmu liburan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hewan peliharaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hewan peliharaan juga ya?
+User2: Iya, lumayan. Menurutmu hewan peliharaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal olahraga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka olahraga juga ya?
+User2: Iya, lumayan. Menurutmu olahraga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal kesehatan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka kesehatan juga ya?
+User2: Iya, lumayan. Menurutmu kesehatan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal game, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka game juga ya?
+User2: Iya, lumayan. Menurutmu game itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal belanja, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka belanja juga ya?
+User2: Iya, lumayan. Menurutmu belanja itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal pekerjaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka pekerjaan juga ya?
+User2: Iya, lumayan. Menurutmu pekerjaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teman, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teman juga ya?
+User2: Iya, lumayan. Menurutmu teman itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal keluarga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka keluarga juga ya?
+User2: Iya, lumayan. Menurutmu keluarga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal internet, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka internet juga ya?
+User2: Iya, lumayan. Menurutmu internet itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal media sosial, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka media sosial juga ya?
+User2: Iya, lumayan. Menurutmu media sosial itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal tidur, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka tidur juga ya?
+User2: Iya, lumayan. Menurutmu tidur itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal motivasi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka motivasi juga ya?
+User2: Iya, lumayan. Menurutmu motivasi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal cuaca, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka cuaca juga ya?
+User2: Iya, lumayan. Menurutmu cuaca itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal film, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka film juga ya?
+User2: Iya, lumayan. Menurutmu film itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal makanan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka makanan juga ya?
+User2: Iya, lumayan. Menurutmu makanan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teknologi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teknologi juga ya?
+User2: Iya, lumayan. Menurutmu teknologi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal musik, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka musik juga ya?
+User2: Iya, lumayan. Menurutmu musik itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal sekolah, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka sekolah juga ya?
+User2: Iya, lumayan. Menurutmu sekolah itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hobi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hobi juga ya?
+User2: Iya, lumayan. Menurutmu hobi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal liburan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka liburan juga ya?
+User2: Iya, lumayan. Menurutmu liburan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hewan peliharaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hewan peliharaan juga ya?
+User2: Iya, lumayan. Menurutmu hewan peliharaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal olahraga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka olahraga juga ya?
+User2: Iya, lumayan. Menurutmu olahraga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal kesehatan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka kesehatan juga ya?
+User2: Iya, lumayan. Menurutmu kesehatan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal game, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka game juga ya?
+User2: Iya, lumayan. Menurutmu game itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal belanja, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka belanja juga ya?
+User2: Iya, lumayan. Menurutmu belanja itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal pekerjaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka pekerjaan juga ya?
+User2: Iya, lumayan. Menurutmu pekerjaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teman, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teman juga ya?
+User2: Iya, lumayan. Menurutmu teman itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal keluarga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka keluarga juga ya?
+User2: Iya, lumayan. Menurutmu keluarga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal internet, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka internet juga ya?
+User2: Iya, lumayan. Menurutmu internet itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal media sosial, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka media sosial juga ya?
+User2: Iya, lumayan. Menurutmu media sosial itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal tidur, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka tidur juga ya?
+User2: Iya, lumayan. Menurutmu tidur itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal motivasi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka motivasi juga ya?
+User2: Iya, lumayan. Menurutmu motivasi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal cuaca, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka cuaca juga ya?
+User2: Iya, lumayan. Menurutmu cuaca itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal film, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka film juga ya?
+User2: Iya, lumayan. Menurutmu film itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal makanan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka makanan juga ya?
+User2: Iya, lumayan. Menurutmu makanan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teknologi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teknologi juga ya?
+User2: Iya, lumayan. Menurutmu teknologi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal musik, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka musik juga ya?
+User2: Iya, lumayan. Menurutmu musik itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal sekolah, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka sekolah juga ya?
+User2: Iya, lumayan. Menurutmu sekolah itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hobi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hobi juga ya?
+User2: Iya, lumayan. Menurutmu hobi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal liburan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka liburan juga ya?
+User2: Iya, lumayan. Menurutmu liburan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hewan peliharaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hewan peliharaan juga ya?
+User2: Iya, lumayan. Menurutmu hewan peliharaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal olahraga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka olahraga juga ya?
+User2: Iya, lumayan. Menurutmu olahraga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal kesehatan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka kesehatan juga ya?
+User2: Iya, lumayan. Menurutmu kesehatan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal game, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka game juga ya?
+User2: Iya, lumayan. Menurutmu game itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal belanja, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka belanja juga ya?
+User2: Iya, lumayan. Menurutmu belanja itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal pekerjaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka pekerjaan juga ya?
+User2: Iya, lumayan. Menurutmu pekerjaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teman, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teman juga ya?
+User2: Iya, lumayan. Menurutmu teman itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal keluarga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka keluarga juga ya?
+User2: Iya, lumayan. Menurutmu keluarga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal internet, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka internet juga ya?
+User2: Iya, lumayan. Menurutmu internet itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal media sosial, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka media sosial juga ya?
+User2: Iya, lumayan. Menurutmu media sosial itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal tidur, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka tidur juga ya?
+User2: Iya, lumayan. Menurutmu tidur itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal motivasi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka motivasi juga ya?
+User2: Iya, lumayan. Menurutmu motivasi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal cuaca, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka cuaca juga ya?
+User2: Iya, lumayan. Menurutmu cuaca itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal film, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka film juga ya?
+User2: Iya, lumayan. Menurutmu film itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal makanan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka makanan juga ya?
+User2: Iya, lumayan. Menurutmu makanan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teknologi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teknologi juga ya?
+User2: Iya, lumayan. Menurutmu teknologi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal musik, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka musik juga ya?
+User2: Iya, lumayan. Menurutmu musik itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal sekolah, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka sekolah juga ya?
+User2: Iya, lumayan. Menurutmu sekolah itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hobi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hobi juga ya?
+User2: Iya, lumayan. Menurutmu hobi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal liburan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka liburan juga ya?
+User2: Iya, lumayan. Menurutmu liburan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal hewan peliharaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka hewan peliharaan juga ya?
+User2: Iya, lumayan. Menurutmu hewan peliharaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal olahraga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka olahraga juga ya?
+User2: Iya, lumayan. Menurutmu olahraga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal kesehatan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka kesehatan juga ya?
+User2: Iya, lumayan. Menurutmu kesehatan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal game, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka game juga ya?
+User2: Iya, lumayan. Menurutmu game itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal belanja, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka belanja juga ya?
+User2: Iya, lumayan. Menurutmu belanja itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal pekerjaan, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka pekerjaan juga ya?
+User2: Iya, lumayan. Menurutmu pekerjaan itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal teman, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka teman juga ya?
+User2: Iya, lumayan. Menurutmu teman itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal keluarga, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka keluarga juga ya?
+User2: Iya, lumayan. Menurutmu keluarga itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal internet, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka internet juga ya?
+User2: Iya, lumayan. Menurutmu internet itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal media sosial, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka media sosial juga ya?
+User2: Iya, lumayan. Menurutmu media sosial itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal tidur, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka tidur juga ya?
+User2: Iya, lumayan. Menurutmu tidur itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
+
+User1: Hai, lagi ngapain?
+User2: Lagi ngobrol soal motivasi, kamu sendiri?
+User1: Sama aja, lagi santai. Kamu suka motivasi juga ya?
+User2: Iya, lumayan. Menurutmu motivasi itu gimana?
+User1: Seru juga, apalagi kalau dibahas bareng temen.
+User2: Setuju banget!
